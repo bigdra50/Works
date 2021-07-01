@@ -24,6 +24,9 @@ https://user-images.githubusercontent.com/38492895/119754294-3c142300-bedb-11eb-
 謎を解き、廃墟からの脱出を目指します｡  
 全体設計や､ インゲームの実装を主に担当｡
 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bigdra50&repo=EscapeKowloon-Src)](https://github.com/bigdra50/EscapeKowloon-Src)  
+
 https://user-images.githubusercontent.com/38492895/119752161-6fed4980-bed7-11eb-9fa0-424e5b67f90f.mp4
 
 ### Gimmick/PatternLock
