@@ -7,7 +7,9 @@
 会津大学を電脳コイルやSAOのオーグマーのようなARクラウド化するプロジェクト｡  
 Android･iosアプリと､ ARグラスのNReal light向けに開発中｡
 
-https://user-images.githubusercontent.com/38492895/119754195-17b84680-bedb-11eb-9ff5-312eaec693a3.mp4
+
+https://user-images.githubusercontent.com/38492895/142344691-d0536ab3-3988-4bfe-afc4-819eea2d7c66.mov
+
 
 https://user-images.githubusercontent.com/38492895/119754294-3c142300-bedb-11eb-9ee8-491ef9a7b5fa.mp4
 
